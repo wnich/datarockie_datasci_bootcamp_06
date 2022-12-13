@@ -13,3 +13,4 @@ Contents we have covered during the 4-month program:
 - Dashboard i.e. Looker Studio, PowerBI, Tableau
 - Intro to Digital Marketing
 - Search Engine Optimization (SEO)
+- User Experience (UX) Design
