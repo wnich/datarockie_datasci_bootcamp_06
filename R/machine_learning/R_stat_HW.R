@@ -1,5 +1,12 @@
-#HW
-#titanic
+'''
+---
+HW
+title: "Titanic predictive model"
+author: "Wanicha M."
+date: "2022-10-24"
+---
+'''
+
 library(titanic)
 head(titanic_train)
 #y is survive --0 = no = die, 1 = yes = survived
