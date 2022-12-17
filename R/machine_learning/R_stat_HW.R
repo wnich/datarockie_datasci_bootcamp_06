@@ -1,11 +1,7 @@
-'''
----
-HW
-title: "Titanic predictive model"
-author: "Wanicha M."
-date: "2022-10-24"
----
-'''
+# Title : Titanic predictive model
+# Author : Wanicha M.
+# Datarockie Bootcamp 06
+# Date : 2022-10-24
 
 library(titanic)
 head(titanic_train)
