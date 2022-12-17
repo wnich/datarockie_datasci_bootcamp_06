@@ -1,10 +1,8 @@
-'''
- Rock paper scissors game 
- Pao Ying Chup
- Author : Wanicha Mueangcharoen
- Datarockie Bootcamp 06
- 2022
-'''
+# Rock paper scissors game 
+# Pao Ying Chup
+# Author : Wanicha M.
+# Datarockie Bootcamp 06
+# 2022
 
 # You vs Opponent
 # Input: you can choose rock, paper or scissors.
