@@ -1,5 +1,8 @@
-# Author: Wanicha Mueangcharoen
-# R homework 1 : chatbot for ordering pizza
+# Chatbot for ordering pizza
+# Author : Wanicha M.
+# Datarockie Bootcamp 06
+# 2022
+
 # 8-10 dialogues
 # Note: at the end of a conversation, it needs to summarize the order
 
